@@ -1,0 +1,4 @@
+2025-02-19 19:52:14,955 - INFO: Fold 1/2
+2025-02-19 19:52:15,230 - INFO: 12.783779M parameters
+2025-02-19 19:52:33,708 - INFO: Fold 1; Processing batch 1 out of 5
+2025-02-19 19:52:33,708 - INFO: Fold 1; Step 0; Train Loss: 8.0164, Val Loss: 8.0162, LR: 0.0010

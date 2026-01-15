@@ -1,0 +1,56 @@
+2025-08-29 16:07:07,878 - INFO: 10.730576 Million trainable parameters
+2025-08-29 16:08:40,697 - INFO: Step 0: train loss 115.1746, val loss 111.8534
+2025-08-29 16:08:40,697 - INFO: Step: 0, LR: 0.001000000
+2025-08-29 16:08:40,711 - INFO: _____________________________Start of memory debugging____________________________
+2025-08-29 16:08:40,712 - INFO: GPU memory allocated: 0 GB
+2025-08-29 16:08:40,712 - INFO: GPU memory reserved: 0 GB
+2025-08-29 16:08:40,712 - INFO: GPU memory peak: 0 GB
+2025-08-29 16:08:40,712 - INFO: GPU memory peak allocated: 0 GB
+2025-08-29 16:08:40,713 - INFO: GPU memory peak reserved: 0 GB
+2025-08-29 16:08:40,713 - INFO: ______________________________End of memory debugging_____________________________
+2025-08-29 16:14:55,295 - INFO: Step 1000: train loss 95.1774, val loss 88.4346
+2025-08-29 16:14:55,295 - INFO: Step: 1000, LR: 0.000904788
+2025-08-29 16:14:55,295 - INFO: New best score: -88.43463897705078
+2025-08-29 16:14:55,304 - INFO: _____________________________Start of memory debugging____________________________
+2025-08-29 16:14:55,304 - INFO: GPU memory allocated: 0 GB
+2025-08-29 16:14:55,304 - INFO: GPU memory reserved: 0 GB
+2025-08-29 16:14:55,305 - INFO: GPU memory peak: 0 GB
+2025-08-29 16:14:55,305 - INFO: GPU memory peak allocated: 0 GB
+2025-08-29 16:14:55,305 - INFO: GPU memory peak reserved: 0 GB
+2025-08-29 16:14:55,305 - INFO: ______________________________End of memory debugging_____________________________
+2025-08-29 16:21:08,808 - INFO: Step 2000: train loss 95.8380, val loss 94.7428
+2025-08-29 16:21:08,808 - INFO: Step: 2000, LR: 0.000655152
+2025-08-29 16:21:08,816 - INFO: _____________________________Start of memory debugging____________________________
+2025-08-29 16:21:08,816 - INFO: GPU memory allocated: 0 GB
+2025-08-29 16:21:08,816 - INFO: GPU memory reserved: 0 GB
+2025-08-29 16:21:08,817 - INFO: GPU memory peak: 0 GB
+2025-08-29 16:21:08,817 - INFO: GPU memory peak allocated: 0 GB
+2025-08-29 16:21:08,817 - INFO: GPU memory peak reserved: 0 GB
+2025-08-29 16:21:08,817 - INFO: ______________________________End of memory debugging_____________________________
+2025-08-29 16:27:21,141 - INFO: Step 3000: train loss 91.7335, val loss 94.4294
+2025-08-29 16:27:21,141 - INFO: Step: 3000, LR: 0.000346445
+2025-08-29 16:27:21,149 - INFO: _____________________________Start of memory debugging____________________________
+2025-08-29 16:27:21,149 - INFO: GPU memory allocated: 0 GB
+2025-08-29 16:27:21,149 - INFO: GPU memory reserved: 0 GB
+2025-08-29 16:27:21,149 - INFO: GPU memory peak: 0 GB
+2025-08-29 16:27:21,149 - INFO: GPU memory peak allocated: 0 GB
+2025-08-29 16:27:21,150 - INFO: GPU memory peak reserved: 0 GB
+2025-08-29 16:27:21,150 - INFO: ______________________________End of memory debugging_____________________________
+2025-08-29 16:33:30,929 - INFO: Step 4000: train loss 97.2826, val loss 92.4288
+2025-08-29 16:33:30,929 - INFO: Step: 4000, LR: 0.000904788
+2025-08-29 16:33:30,936 - INFO: _____________________________Start of memory debugging____________________________
+2025-08-29 16:33:30,936 - INFO: GPU memory allocated: 0 GB
+2025-08-29 16:33:30,936 - INFO: GPU memory reserved: 0 GB
+2025-08-29 16:33:30,936 - INFO: GPU memory peak: 0 GB
+2025-08-29 16:33:30,936 - INFO: GPU memory peak allocated: 0 GB
+2025-08-29 16:33:30,936 - INFO: GPU memory peak reserved: 0 GB
+2025-08-29 16:33:30,936 - INFO: ______________________________End of memory debugging_____________________________
+2025-08-29 16:39:40,389 - INFO: Step 4999: train loss 95.0332, val loss 92.1722
+2025-08-29 16:39:40,390 - INFO: Step: 4999, LR: 0.000655451
+2025-08-29 16:39:40,397 - INFO: _____________________________Start of memory debugging____________________________
+2025-08-29 16:39:40,397 - INFO: GPU memory allocated: 0 GB
+2025-08-29 16:39:40,397 - INFO: GPU memory reserved: 0 GB
+2025-08-29 16:39:40,397 - INFO: GPU memory peak: 0 GB
+2025-08-29 16:39:40,398 - INFO: GPU memory peak allocated: 0 GB
+2025-08-29 16:39:40,398 - INFO: GPU memory peak reserved: 0 GB
+2025-08-29 16:39:40,398 - INFO: ______________________________End of memory debugging_____________________________

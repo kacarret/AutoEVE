@@ -1,0 +1,15 @@
+{
+    "batch_size": 32,
+    "learning_rate": 0.0002,
+    "n_embd": 128,
+    "n_head": 2,
+    "n_layer": 8,
+    "dropout": 0.3,
+    "weight_decay": 0.02,
+    "block_size": 128,
+    "max_iters": 25000,
+    "eval_interval": 1000,
+    "eval_iters": 200,
+    "n_splits": 2,
+    "fine_tune": false
+}

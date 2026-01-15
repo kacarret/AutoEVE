@@ -1,0 +1,27 @@
+'''
+Common Special Tokens for GPT
+
+1. [PAD] - Padding token
+2. [BOS] - Beginning of sequence token
+3. [EOS] - End of sequence token
+4. [MASK] - Mask token
+5. [UNK] - Unknown token
+6. [USER] - User token
+7. [EVE] - EVE token
+8. [NAME] - Name token
+9. [TOKEN 1 - TOKEN INF] - These can be tokens such as age, gender, location, prefrence etc
+
+For tokens not [start], [end], [user], [eve]. try to make the others <token>
+
+1. Context Storage and Special Tokens:
+Context can be stored at the time of generation: You can store information (like user names, preferences, or past conversation history) and inject it back into the model’s generation process using special tokens.
+Special tokens are useful to guide the model when to use stored information. For example, tokens like <NAME>, <AGE>, or <LOCATION> can represent dynamic, context-dependent data. The model will learn to use them appropriately if trained correctly.
+2. Pretraining and Fine-Tuning:
+Pretrain on real-world data: This helps the model learn general language patterns, conversational structures, and task-specific knowledge. You can start with a general dialogue corpus like the Cornell Movie-Dialogs or Persona-Chat dataset.
+Fine-tune with synthetic data: After pretraining, fine-tuning with your specific, synthetic data (which includes personalized tokens and context-specific examples) helps the model adapt to your specific use case. This data can include special tokens (e.g., <USER>, <BOT>, <NAME>) to make the model more aware of context and structure, improving its ability to handle dynamic, personalized conversations.
+Final Steps:
+Store dynamic context (like the user’s name) during inference and inject it into the conversation when appropriate.
+Pretrain on real-world data: Gather dialogue data from publicly available datasets.
+Fine-tune with synthetic data: Add special tokens and adjust the training process to ensure the model learns to handle dynamic context properly.
+This approach should help your model become more conversationally coherent, adaptable to user-specific details, and more context-aware when generating responses.
+'''
